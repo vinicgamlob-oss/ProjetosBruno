@@ -2,8 +2,6 @@ public class Produto {
 
 	private int Codigo;
 
-	private Fornecedor .Fornecedor Fornecedor;
-
 	private int Codigo_Barra;
 
 	private Lote lote;
